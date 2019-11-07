@@ -1,0 +1,27 @@
+.banner{
+  background-image: url('../../images/background.png');
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner .container{
+  width: 900px;
+  margin: auto;
+}
+
+.banner p{
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.banner .btn-green{
+  background-color: #1edd88;
+  color: white;
+  padding: 15px 25px;
+  font-weight: bold;
+  border-radius: 20px;
+}
